@@ -1,0 +1,4 @@
+3
+nn|toan|5|4
+mm|ly|5|7
+kk|hoa|2|1
